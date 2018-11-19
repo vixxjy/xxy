@@ -1,3 +1,4 @@
 [18-Nov-2018 20:31:33 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/ubuntu/workspace/vendor/laravel/framework/src/Illuminate/Support/Arr.php on line 388
 [18-Nov-2018 20:31:37 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/ubuntu/workspace/vendor/laravel/framework/src/Illuminate/Support/Arr.php on line 388
 [18-Nov-2018 20:32:14 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/ubuntu/workspace/vendor/laravel/framework/src/Illuminate/Support/Arr.php on line 388
+[19-Nov-2018 19:09:58 UTC] PHP Fatal error:  Cannot redeclare todo\Http\Controllers\PagesController::index() in /home/ubuntu/workspace/app/Http/Controllers/PagesController.php on line 13
